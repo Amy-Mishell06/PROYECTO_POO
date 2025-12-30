@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form xmlns="http://www.intellij.com/uidesigner/form/" version="1" bind-to-class="AnalistaMenuForm">
+  <grid id="27dc6" binding="panelPrincipal" layout-manager="GridLayoutManager" row-count="3" column-count="3" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="-1">
+    <margin top="0" left="0" bottom="0" right="0"/>
+    <constraints>
+      <xy x="20" y="20" width="520" height="400"/>
+    </constraints>
+    <properties>
+      <background color="-524292"/>
+    </properties>
+    <border type="none"/>
+    <children>
+      <component id="fab8b" class="javax.swing.JLabel" binding="Titulo">
+        <constraints>
+          <grid row="0" column="0" row-span="1" col-span="3" vsize-policy="0" hsize-policy="0" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <font name="Bookman Old Style" size="14"/>
+          <text value="ANALISTA DE MATRICULACION"/>
+        </properties>
+      </component>
+      <component id="dcd2f" class="javax.swing.JButton" binding="SolicitanteButton">
+        <constraints>
+          <grid row="1" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="3" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <font name="Bookshelf Symbol 7" size="14"/>
+          <text value="Registrar &#10;Solicitante"/>
+        </properties>
+      </component>
+      <component id="19789" class="javax.swing.JButton" binding="RequisitosButton">
+        <constraints>
+          <grid row="1" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="3" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <font name="Bookshelf Symbol 7" size="14"/>
+          <text value="Verificar Requisitos"/>
+        </properties>
+      </component>
+      <component id="3c0dc" class="javax.swing.JButton" binding="ExámenesButton">
+        <constraints>
+          <grid row="1" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="3" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <font name="Bookshelf Symbol 7" size="14"/>
+          <text value="Registrar Exámenes"/>
+        </properties>
+      </component>
+      <component id="8781b" class="javax.swing.JButton" binding="cerrarSesiónButton" default-binding="true">
+        <constraints>
+          <grid row="2" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="3" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <font name="Bookshelf Symbol 7" size="14"/>
+          <text value="Cerrar Sesión"/>
+        </properties>
+      </component>
+      <component id="6516b" class="javax.swing.JButton" binding="LicenciaButton">
+        <constraints>
+          <grid row="2" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="3" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <font name="Bookshelf Symbol 7" size="14"/>
+          <text value="Generar Licencia"/>
+        </properties>
+      </component>
+      <component id="bd2de" class="javax.swing.JButton" binding="TrámitesButton">
+        <constraints>
+          <grid row="2" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="3" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <font name="Bookshelf Symbol 7" size="14"/>
+          <text value="Gestión de trámites"/>
+        </properties>
+      </component>
+    </children>
+  </grid>
+</form>

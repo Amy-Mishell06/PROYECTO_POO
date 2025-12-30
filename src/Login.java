@@ -40,6 +40,8 @@ public class Login extends JFrame{
 
         } else if (rol.equals("ANALISTA") && usuario.equals("analista") && contraseña.equals("123")) {
             JOptionPane.showMessageDialog(this, "Bienvenido ANALISTA");
+            new AnalistaMenuForm().setVisible(true);
+            dispose();
 
         }else {
             JOptionPane.showMessageDialog(this, "Credenciales incorrectas");
