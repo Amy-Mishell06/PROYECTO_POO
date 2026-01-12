@@ -26,7 +26,7 @@ MANUAL DE USUARIO
 
 Introducción
 
-El presente Manual de Usuario describe el uso del sistema de gestión de trámites de matriculación vehicular. Su objetivo es orientar al usuario en el manejo correcto de cada módulo del sistema, permitiendo realizar los procesos de forma clara, rápida y segura.
+El presente Manual de Usuario describe el uso del sistema de gestión de trámites de licencias vehiculares. Su objetivo es orientar al usuario en el manejo correcto de cada módulo del sistema, permitiendo realizar los procesos de forma clara, rápida y segura.
 El sistema está diseñado para ser utilizado por administradores, analistas y solicitantes, mostrando diferentes opciones según el rol con el que se acceda.
 
 Acceso al Sistema
@@ -46,6 +46,7 @@ En caso de ingresar credenciales incorrectas tres veces, la cuenta del solicitan
 -	Menú Principal
 
 Una vez iniciada la sesión, el sistema muestra el menú principal correspondiente al rol del usuario. Desde este menú se puede acceder a los diferentes módulos del sistema mediante botones de navegación claros e intuitivos.
+
 -	Registrar Solicitante
 Este módulo permite registrar a una persona que desea iniciar un trámite de matriculación.
 El usuario debe ingresar el número de cédula, el nombre completo y seleccionar el tipo de licencia. Al guardar la información, el sistema crea automáticamente el usuario del solicitante.
