@@ -8,17 +8,19 @@ Ejecutar el .jar o .exe
 
 Credenciales de Prueba
 
-Analista
+- Analista
 
 Usuario: amy
 
 Contraseña: amy06
 
-Solicitante
+- Solicitante
 
 Usuario: 1725984267
 
 Contraseña: 1725984267JUAN
+
+
 
 MANUAL DE USUARIO
 
