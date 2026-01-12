@@ -7,9 +7,9 @@ Requisitos del Sistema
 Ejecutar el .jar o .exe
 
 Credenciales de Prueba
-Administrador
-Usuario: alex
-Contraseña: alex26
+Analista
+Usuario: amy
+Contraseña: amy06
 
 Solicitante
 Usuario: 1725984267
@@ -60,7 +60,10 @@ Adicional como administrador cuenta con el modulo:
 El cual permite la gestión de usuarios solicitantes aquí podremos cambiar el username, contraseña y estado del solicitante.
 -	Reportes
 Que permite al admistrador generar un reporte ya sea en CSV o PDF mediante filtros que van desde cedula, nombre, tipo de licencia y estado.
-Como solicitante:
+
+
+- Como solicitante:
+
 •	Consulta del Trámite
 El solicitante tendrá acceso únicamente a la información relacionada con su propio trámite. Desde su perfil podrá visualizar el estado del proceso, las etapas completadas y las observaciones registradas.
 Cuando el trámite haya finalizado y la licencia se encuentre emitida, el solicitante podrá descargar su licencia en formato PDF.
