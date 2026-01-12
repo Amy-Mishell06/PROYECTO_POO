@@ -16,18 +16,28 @@ Usuario: 1725984267
 Contraseña: 1725984267JUAN
 
 MANUAL DE USUARIO
+
 Introducción
+
 El presente Manual de Usuario describe el uso del sistema de gestión de trámites de matriculación vehicular. Su objetivo es orientar al usuario en el manejo correcto de cada módulo del sistema, permitiendo realizar los procesos de forma clara, rápida y segura.
 El sistema está diseñado para ser utilizado por administradores, analistas y solicitantes, mostrando diferentes opciones según el rol con el que se acceda.
+
 Acceso al Sistema
+
 Al iniciar la aplicación se presenta la pantalla de inicio de sesión.
 El usuario debe ingresar su nombre de usuario y contraseña para acceder al sistema.
 El sistema cuenta con tres tipos de usuarios:
+
 •	Administrador
+
 •	Analista
+
 •	Solicitante
+
 En caso de ingresar credenciales incorrectas tres veces, la cuenta del solicitante será deshabilitada automáticamente.
+
 -	Menú Principal
+
 Una vez iniciada la sesión, el sistema muestra el menú principal correspondiente al rol del usuario. Desde este menú se puede acceder a los diferentes módulos del sistema mediante botones de navegación claros e intuitivos.
 -	Registrar Solicitante
 Este módulo permite registrar a una persona que desea iniciar un trámite de matriculación.
