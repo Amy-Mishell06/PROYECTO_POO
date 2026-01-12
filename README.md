@@ -7,12 +7,17 @@ Requisitos del Sistema
 Ejecutar el .jar o .exe
 
 Credenciales de Prueba
+
 Analista
+
 Usuario: amy
+
 Contraseña: amy06
 
 Solicitante
+
 Usuario: 1725984267
+
 Contraseña: 1725984267JUAN
 
 MANUAL DE USUARIO
